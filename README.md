@@ -2,7 +2,7 @@
 Security Related Brews
 ## Usage
 ```shell
-> brew tap tam7t/hardended-cider
+> brew tap tam7t/hardened-cider
 ```
 ## References
 * [Formula Cookbook](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/Formula-Cookbook.md)
